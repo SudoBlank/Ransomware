@@ -26,12 +26,7 @@ This project demonstrates how seemingly legitimate software can hide malicious f
 - **Security Awareness Demo**: Shows the importance of verifying software sources
 
 ## 🛠️ Technical Details
-
-### Components
-- `main.py` - Main application using Flet for the GUI
-- `enc.bat` - Batch script for simulated encryption process
-- `enc.ps1` - PowerShell encryption script
-- `denc.bat` - Batch script for simulated decryption process
+Batch script for simulated decryption process
 
 ### Requirements
 - Python 3.7+
